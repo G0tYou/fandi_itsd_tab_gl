@@ -5,7 +5,7 @@ import (
 )
 
 type Employee struct {
-	NIK        int    `json:"nik"`
+	NIK        string `json:"nik"`
 	Name       string `json:"nama"`
 	BirthDate  string `json:"tanggal_lahir"`
 	Gender     string `json:"jenis_kelamin"`
