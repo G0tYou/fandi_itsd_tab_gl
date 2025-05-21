@@ -7,7 +7,6 @@ written in Go.
 This project has 4 Domain layer :
 
 - Domain Layer, act as model or entity.
-- Repository Layer, calls to database, memory, external services/APIs.
 - Service Layer, business login happen here.
 - Delivery Layer, routers and handlers.
 
