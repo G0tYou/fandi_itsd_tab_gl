@@ -1,24 +1,23 @@
 [
-    {
-      "nik": "001",
-      "nama": "Anton",
-      "tanggal_lahir": "1990-02-01",
-      "jenis_kelamin": "L",
-      "departemen": "IT"
-    },
-    {
-      "nik": "002",
-      "nama": "Budi",
-      "tanggal_lahir": "1993-12-01",
-      "jenis_kelamin": "L",
-      "departemen": "IT"
-    },
-    {
-      "nik": "003",
-      "nama": "Citra",
-      "tanggal_lahir": "1992-07-09",
-      "jenis_kelamin": "P",
-      "departemen": "HC"
-    }
-  ]
-  
+  {
+    "nik": "001",
+    "nama": "Anton",
+    "tanggal_lahir": "1990-02-01",
+    "jenis_kelamin": "L",
+    "departemen": "IT"
+  },
+  {
+    "nik": "002",
+    "nama": "Budi",
+    "tanggal_lahir": "1993-12-01",
+    "jenis_kelamin": "L",
+    "departemen": "IT"
+  },
+  {
+    "nik": "003",
+    "nama": "Citra",
+    "tanggal_lahir": "1992-07-09",
+    "jenis_kelamin": "P",
+    "departemen": "HC"
+  }
+]
